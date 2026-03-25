@@ -1,0 +1,58 @@
+grupo,label_grupo,cor_grupo,cargo
+administrativo,Administrativo e Logistica,#2748d8,Analista Suporte Tecnico
+administrativo,Administrativo e Logistica,#2748d8,Coord. Sist. Informacao
+administrativo,Administrativo e Logistica,#2748d8,Sup. Sist. Informacao
+administrativo,Administrativo e Logistica,#2748d8,Anal. Melhoria Continua
+administrativo,Administrativo e Logistica,#2748d8,Gestor de Projetos
+administrativo,Administrativo e Logistica,#2748d8,Supervisor KSPS
+administrativo,Administrativo e Logistica,#2748d8,Analista Manutencao
+administrativo,Administrativo e Logistica,#2748d8,Secretario
+administrativo,Administrativo e Logistica,#2748d8,Mecanico Manutencao / Eletromecanico
+administrativo,Administrativo e Logistica,#2748d8,Planejador Manutencao / Materiais
+administrativo,Administrativo e Logistica,#2748d8,Lider da Manutencao
+administrativo,Administrativo e Logistica,#2748d8,Encarregado de Manutencao
+almoxarifado,Almoxarifado,#1aa64a,Auxiliar de Almoxarifado
+almoxarifado,Almoxarifado,#1aa64a,Almoxarife
+almoxarifado,Almoxarifado,#1aa64a,Almoxarife III
+almoxarifado,Almoxarifado,#1aa64a,Expedidor Logistico
+almoxarifado,Almoxarifado,#1aa64a,Lider de Almoxarifado
+almoxarifado,Almoxarifado,#1aa64a,Analista PCP / Materiais / Com. Exterior
+almoxarifado,Almoxarifado,#1aa64a,Supervisor Logistica
+rh,RH e Treinamento,#2d9cdb,Instrutor de Treinamento
+rh,RH e Treinamento,#2d9cdb,Analista RH I
+rh,RH e Treinamento,#2d9cdb,Supervisor RH
+producao,Producao,#ff2b2b,Lider de Producao
+producao,Producao,#ff2b2b,Encarregado
+producao,Producao,#ff2b2b,Supervisor de Producao
+producao,Producao,#ff2b2b,Tecnico Seguranca do Trabalho
+operacao,Operacao,#7b3fb9,Montador de Prototipo
+operacao,Operacao,#7b3fb9,Montador
+operacao,Operacao,#7b3fb9,Operador de Prensas
+operacao,Operacao,#7b3fb9,Operador de Ultrassom de Teste
+operacao,Operacao,#7b3fb9,Operador de Maquina
+operacao,Operacao,#7b3fb9,Montador Polivalente
+operacao,Operacao,#7b3fb9,Operador Polivalente
+qualidade,Qualidade,#f2c500,Inspetor de Processos / Qualidade
+qualidade,Qualidade,#f2c500,Auditor de Produto
+qualidade,Qualidade,#f2c500,Residente de Qualidade
+qualidade,Qualidade,#f2c500,Encarregado de QA
+qualidade,Qualidade,#f2c500,Analista de QA / QMS / EMS
+qualidade,Qualidade,#f2c500,Supervisor de QA
+qualidade,Qualidade,#f2c500,Gestor QMS / EMS
+engenharia,Engenharia e Comercial,#d6c4ff,Tecnico Manufatura
+engenharia,Engenharia e Comercial,#d6c4ff,Eng. Manufatura
+engenharia,Engenharia e Comercial,#d6c4ff,Supervisor Eng. Manuf.
+engenharia,Engenharia e Comercial,#d6c4ff,Tecnico Produto
+engenharia,Engenharia e Comercial,#d6c4ff,Engenheiro Produto
+engenharia,Engenharia e Comercial,#d6c4ff,Supervisor Eng. Produto
+engenharia,Engenharia e Comercial,#d6c4ff,Engenheiro IM
+engenharia,Engenharia e Comercial,#d6c4ff,Assist. Adm. Vendas
+engenharia,Engenharia e Comercial,#d6c4ff,Orcamentista
+engenharia,Engenharia e Comercial,#d6c4ff,Engenheiro de Vendas
+engenharia,Engenharia e Comercial,#d6c4ff,Controller de Vendas
+financeiro,Financeiro e Compras,#8f8f8f,Auxiliar Fiscal
+financeiro,Financeiro e Compras,#8f8f8f,Analista Fiscal / Tesouraria / Contabil
+financeiro,Financeiro e Compras,#8f8f8f,Supervisor Fiscal / Tesouraria / Contabil
+financeiro,Financeiro e Compras,#8f8f8f,Comprador
+financeiro,Financeiro e Compras,#8f8f8f,Comprador Tecnico
+financeiro,Financeiro e Compras,#8f8f8f,Comprador de Projetos

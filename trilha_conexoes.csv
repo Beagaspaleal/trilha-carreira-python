@@ -1,0 +1,53 @@
+origem,destino
+Analista Suporte Tecnico,Coord. Sist. Informacao
+Coord. Sist. Informacao,Sup. Sist. Informacao
+Anal. Melhoria Continua,Gestor de Projetos
+Gestor de Projetos,Supervisor KSPS
+Analista Manutencao,Secretario
+Secretario,Mecanico Manutencao / Eletromecanico
+Mecanico Manutencao / Eletromecanico,Planejador Manutencao / Materiais
+Planejador Manutencao / Materiais,Lider da Manutencao
+Lider da Manutencao,Encarregado de Manutencao
+Auxiliar de Almoxarifado,Almoxarife
+Almoxarife,Almoxarife III
+Almoxarife III,Expedidor Logistico
+Expedidor Logistico,Lider de Almoxarifado
+Lider de Almoxarifado,Analista PCP / Materiais / Com. Exterior
+Analista PCP / Materiais / Com. Exterior,Supervisor Logistica
+Instrutor de Treinamento,Analista RH I
+Analista RH I,Supervisor RH
+Lider de Producao,Encarregado
+Encarregado,Supervisor de Producao
+Supervisor de Producao,Tecnico Seguranca do Trabalho
+Montador de Prototipo,Montador
+Montador,Operador de Prensas
+Montador,Operador de Ultrassom de Teste
+Montador,Operador de Maquina
+Operador de Prensas,Montador Polivalente
+Operador de Ultrassom de Teste,Montador Polivalente
+Operador de Maquina,Operador Polivalente
+Montador Polivalente,Operador Polivalente
+Inspetor de Processos / Qualidade,Auditor de Produto
+Auditor de Produto,Residente de Qualidade
+Residente de Qualidade,Encarregado de QA
+Encarregado de QA,Analista de QA / QMS / EMS
+Analista de QA / QMS / EMS,Supervisor de QA
+Supervisor de QA,Gestor QMS / EMS
+Tecnico Manufatura,Eng. Manufatura
+Eng. Manufatura,Supervisor Eng. Manuf.
+Tecnico Produto,Engenheiro Produto
+Engenheiro Produto,Supervisor Eng. Produto
+Supervisor Eng. Produto,Engenheiro IM
+Assist. Adm. Vendas,Orcamentista
+Orcamentista,Engenheiro de Vendas
+Engenheiro de Vendas,Controller de Vendas
+Auxiliar Fiscal,Analista Fiscal / Tesouraria / Contabil
+Analista Fiscal / Tesouraria / Contabil,Supervisor Fiscal / Tesouraria / Contabil
+Comprador,Comprador Tecnico
+Comprador Tecnico,Comprador de Projetos
+Supervisor Logistica,Supervisor RH
+Supervisor RH,Supervisor de Producao
+Supervisor de Producao,Supervisor de QA
+Supervisor de QA,Supervisor Eng. Manuf.
+Supervisor Eng. Manuf.,Supervisor Eng. Produto
+Supervisor Eng. Produto,Supervisor Fiscal / Tesouraria / Contabil
